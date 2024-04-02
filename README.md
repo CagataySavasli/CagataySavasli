@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on MergerBERT Project<br>📚 I’m currently learning Machine Learning, Deep Learning and NLP<br>📫 How to reach me cagatay.savasli@ozu.edu.tr<br>🎯 Goals:  Became a Machine Learning Engineer in the Finance Industry<br>🎲 Fun fact: I am a drummer</p>
+<p align="left">🔭 I’m currently working on LLMs and Merge Modeling<br>📚 I’m currently learning Machine Learning, Deep Learning and NLP<br>📫 How to reach me cagatay.savasli@ozu.edu.tr<br>🎯 Goals:  Became a Machine Learning Engineer in the Finance Industry<br>🎲 Fun fact: I am a drummer</p>
 
 ###
 
