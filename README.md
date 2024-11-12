@@ -37,3 +37,5 @@
 </div>
 
 ###
+
+![CagataySavasli's github stats](https://github-readme-stats.vercel.app/api?username=CagataySavasli&show_icons=true&theme=dracula)
