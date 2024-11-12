@@ -1,4 +1,4 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+8<h1 align="left">Hey 👋 What's up?</h1>
 
 ###
 
@@ -38,4 +38,4 @@
 
 ###
 
-![CagataySavasli's github stats](https://github-readme-stats.vercel.app/api?username=CagataySavasli&show_icons=true&theme=dracula)
+![CagataySavasli's GitHub stats](https://github-readme-stats.vercel.app/api?username=CagataySavasli&show_icons=true&theme=dracula&count_private=true)
