@@ -1,16 +1,25 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="center">Hey there! 👋 Welcome to my GitHub</h1>
 
 ###
 
-<p align="left">My name is Ahmet Çağatay Savaşlı and I'm a Master Student in Artificial Intelligence at Özyeğin University</p>
+<p align="center">
+  <strong>I'm Ahmet Çağatay Savaşlı</strong><br>
+  🌟 Master’s Student in Artificial Intelligence at <a href="https://www.ozyegin.edu.tr/">Özyeğin University</a>
+</p>
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="center">A little about me...</h2>
 
 ###
 
-<p align="left">🔭 I’m currently working on LLMs and Merge Modeling<br>📚 I’m currently learning Machine Learning, Deep Learning and NLP<br>📫 How to reach me cagatay.savasli@ozu.edu.tr<br>🎯 Goals:  Became a Machine Learning Engineer in the Finance Industry<br>🎲 Fun fact: I am a drummer</p>
+<p align="left">
+  🚀 <strong>Currently:</strong> Exploring the fascinating world of AI and LLMs.<br>
+  🧠 <strong>Passion:</strong> Deep Learning & NLP Applications in Finance.<br>
+  📬 <strong>Let’s connect:</strong> <a href="mailto:cagatay.savasli@ozu.edu.tr">cagatay.savasli@ozu.edu.tr</a><br>
+  🎯 <strong>Mission:</strong> To become a Machine Learning Engineer in the Finance Industry.<br>
+  🥁 <strong>Fun Fact:</strong> When I’m not coding, I’m probably drumming up some beats! 🎶<br>
+</p>
 
 ###
 
@@ -37,3 +46,5 @@
 </div>
 
 ###
+
+<h3 align="center">✨ Let's build, innovate, and create something amazing! ✨</h3>
