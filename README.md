@@ -16,8 +16,9 @@
 <p align="left">
   🚀 <strong>Currently:</strong> Exploring the fascinating world of Graphs and LLMs.<br>
   🧠 <strong>Passion:</strong> Deep Learning & NLP Applications in Finance.<br>
-  📬 <strong>Let’s connect:</strong> <a href="mailto:cagatay.savasli@ozu.edu.tr">cagatay.savasli@ozu.edu.tr</a><br>
   🎯 <strong>Mission:</strong> To become a Machine Learning Engineer in the Finance Industry.<br>
+  🌐 My Personal Website: </strong> <a href="https://cagataysavasli.github.io/">CagataySavasli</a><br>
+  📬 <strong>Let’s connect:</strong> <a href="mailto:cagatay.savasli@ozu.edu.tr">cagatay.savasli@ozu.edu.tr</a><br>
   🥁 <strong>Fun Fact:</strong> When I’m not coding, I’m probably drumming up some beats! 🎶<br>
 </p>
 
