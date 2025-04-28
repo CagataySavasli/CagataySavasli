@@ -2,6 +2,12 @@
 
 ###
 
+<div align="center">
+  <img height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWpyemwxMzIyajUxeDduMnl1NTBzb3VrbmZ5dWhub2U3OGJodmJnbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Sm9AfJRiZofjlrkAAl/giphy.gif"  />
+</div>
+
+###
+
 <p align="center">
   <strong>I'm Ahmet Çağatay Savaşlı</strong><br>
   🌟 Master’s Student in Artificial Intelligence at <a href="https://www.ozyegin.edu.tr/">Özyeğin University</a>
