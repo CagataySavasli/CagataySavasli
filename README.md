@@ -30,6 +30,28 @@
 
 ###
 
+## 🌟 Live Streamlit Apps & Demos
+
+Below are some of my live Streamlit apps—click to explore! 🚀
+
+- **🦥 [LazyLoader-GDELT](https://lazyloader-gdelt.streamlit.app/)**  
+  Effortlessly download GDELT data without writing a single line of code.
+
+- **📈 [CryptoCapade](https://cryptocapade.streamlit.app/)**  
+  Test and visualize pretrained AI models for price forecasting.
+
+- **💬 [FinBuddy](https://finbuddy-10k-bbcydnveusyzmhqk2dgdbj.streamlit.app/)**  
+  Chat with a finance-savvy bot trained on 10-K filings.
+
+- **🧩 [JobJitsu](https://cagataysavasli-jobjitsu-main-yhdmyr.streamlit.app/)**  
+  Sharpen your interview IQ with fun, interactive puzzle challenges.
+
+- **🥁 [RudimentLab](https://rudimentlab.streamlit.app/)**  
+  A custom metronome built for beginner drummers to master their rudiments.
+
+
+###
+
 <h2 align="left">🛠 Language and tools</h2>
 
 ###
