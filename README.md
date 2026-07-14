@@ -10,7 +10,7 @@
 
 <p align="center">
   <strong>I'm Ahmet Çağatay Savaşlı</strong><br>
-  🌟 Master’s Student in Artificial Intelligence at <a href="https://www.ozyegin.edu.tr/">Özyeğin University</a>
+  🌟 Software Engineer at  <a href="https://www.avl.com/en/locations/avl-research-engineering-turkey">AVL in Türkiye Research and Engineering</a>
 </p>
 
 ###
